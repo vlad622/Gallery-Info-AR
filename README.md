@@ -1,6 +1,6 @@
 # Gallery-Info-AR
 
-Shows information about paintings, now added only this 3 paintings. Info such as name, author and decription loads from firebase server, but ar markers is part of an app due to problems with changing refernceLibrary in runtime.
+Shows information about paintings, now added only this 3 paintings. Info such as name, author and decription loads from firebase server, but ar markers is part of an app due to problems with changing refernceLibrary in runtime. Only android release, tested on Redmi Note 9 pro.
 
 <p><a href="https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg#/media/Файл:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1200px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg" alt="Van Gogh - Starry Night - Google Art Project.jpg"></p>
 <p><a href="https://commons.wikimedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg#/media/Файл:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/1200px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg" alt="Mona Lisa, by Leonardo da Vinci, from C2RMF retouched.jpg"></a></p>
